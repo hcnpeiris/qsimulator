@@ -2,7 +2,7 @@
 
 This repository contains a submission for the QOSF Mentorship Program, Cohort 10, Screening Test Task 1: **Statevector Simulation of Quantum Circuits.**
 
-This project simulates a quantum circuit using the Hadamard gate, X gate, and CNOT gate through two methods: 
+This simulator simulates a quantum circuit using the Hadamard gate, X gate, and CNOT gate through two methods: 
 
 1. Naive simulation using matrix multiplication 
 2. Advanced simulation using tensor multiplication
