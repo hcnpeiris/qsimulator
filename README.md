@@ -40,7 +40,7 @@ python3 matrix_max_qubit.py
 ```
 *If the script was terminated before the graph was plotted, adjust the **maximum number of qubits** to the **last system qubit count** *
 
-![Figure 1](https://github.com/hcnpeiris/statevec-sim/blob/main/images/Figure_1.png?raw=true)
+![Figure 1](https://github.com/hcnpeiris/qsimulator/blob/main/images/Figure_1.png?raw=true)
 
 ## 02 - Advanced simulation using tensor multiplication
 This simulator uses the `tensorsim` module. Function usage is similar to `matrixsim` but returns values using tensor multiplication.
@@ -54,7 +54,7 @@ python3 tensor_max_qubit.py
 ```
 *If the script was terminated before the graph was plotted, adjust the **maximum number of qubits** to the **last system qubit count** *
 
-![Figure 1](https://github.com/hcnpeiris/statevec-sim/blob/main/images/Figure_2.png?raw=true)
+![Figure 1](https://github.com/hcnpeiris/qsimulator/blob/main/images/Figure_2.png?raw=true)
 
 ## 03 - Bonus questions
 ### 03.1 Sampler
@@ -63,11 +63,11 @@ The `sampler` function calculates the probability of each state in a quantum sys
 ```bash
 python3 matrix_sampler.py
 ```
-![Figure 1](https://github.com/hcnpeiris/statevec-sim/blob/main/images/Figure_3.png?raw=true)
+![Figure 1](https://github.com/hcnpeiris/qsimulator/blob/main/images/Figure_3.png?raw=true)
 ```bash
 python3 tensor_sampler.py
 ```
-![Figure 1](https://github.com/hcnpeiris/statevec-sim/blob/main/images/Figure_4.png?raw=true)
+![Figure 1](https://github.com/hcnpeiris/qsimulator/blob/main/images/Figure_4.png?raw=true)
 
 ### 03.2 Expectation Values
 
